@@ -1,0 +1,10 @@
+# ignore python virtual environment
+venv/*
+env/*
+Lib/*
+Scripts/*
+pyvenv.cfg
+
+*.csv
+*.log
+*.pkl
