@@ -8,3 +8,9 @@ pyvenv.cfg
 *.csv
 *.log
 *.pkl
+
+# ignore all folders
+__pycache__/
+ML4M - Bootcamp - Summer 2023/
+MASTML_colab_hyperopt/
+Nanohub_workflow/
